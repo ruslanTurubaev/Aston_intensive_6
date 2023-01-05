@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aston_intensive_6</string>
+    <string name="label">Recycler View</string>
+    <string name="save">Save</string>
+    <string name="first_name">First name</string>
+    <string name="second_name">Second name</string>
+    <string name="tel_number">Tel number</string>
+    <string name="dialog_question">Do you want to delete </string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="contact_picture">Contact picture</string>
+    <string name="Toast">"Ups! Smt goes wrong, check your internet connection</string>
+</resources>
